@@ -31,10 +31,9 @@ Through research, some of the most frequent mistakes that cause formula errors i
 ## D: Additional Issues to investigate:
 After addressing the above points, other potential problems might include:
 
-# Are there macros running that overide calculations?
+#Are there macros running that overide calculations?
 Macros written in vba can prevent formulas from updating.
-
-# Are there any third-party add-ins interfering with excel?
+#Are there any third-party add-ins interfering with excel?
 Some excel add-ins modify calculation behaviour. The user can disable them under File > Options > Add ins.
 
 
