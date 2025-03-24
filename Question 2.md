@@ -41,3 +41,5 @@ Below are some recommended alternatives:
 A lightweight and feature rich text editors with syntax highlighting and autosave options.
 #Sublime text:
 A fast, customizable editors with multiple ursors and a  distraction free mode.
+#Visual Studio Code:
+A powerful, extensible editors with built in git integrationn and intelligent code completion.
